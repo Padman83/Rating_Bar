@@ -12,11 +12,11 @@
 #### Open in Android Studio, Get from Version Control -> enter repository URL.
 
 ```
-https://github.com/Padman83/Tap_Counter.git
+https://github.com/Padman83/Rating_Bar.git
 ```
 
 #### Or Use the Terminal.
 
 ```
-git clone https://github.com/Padman83/Tap_Counter.git
+git clone https://github.com/Padman83/Rating_Bar.git
 
